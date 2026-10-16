@@ -4,6 +4,7 @@ A production e-commerce platform for **Comfy Shoes**, a comfort-footwear retaile
 
 Built and operated by [Ntsika Gqiba](https://www.linkedin.com/in/ntsika-gqiba) at LNS Corporation. Published with the company's permission. **This repo documents architecture and decisions only; source code, credentials and customer data are not included.**
 
+![Comfy Shoes storefront](docs/storefront-home.jpeg)
 ---
 
 ## The problem
